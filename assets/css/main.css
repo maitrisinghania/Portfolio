@@ -578,7 +578,7 @@ section,
   object-fit: cover;
   z-index: 1;
   
-  filter: blur(1px) ;
+  filter: blur(0.8px) ;
 }
 
 .hero:before {
